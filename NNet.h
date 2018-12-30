@@ -8,6 +8,9 @@
 //     3) Sum the two values
 //     4) apply act func
 //      
+//  Feed-forwarding:
+//      1) 
+//      
 //  Simple BackProp:
 //     1) Learn Partial Derivitives
 //
